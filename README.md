@@ -2,7 +2,7 @@
 
 ## 📝 Project Overview
 
-For subscription-based businesses, reducing customer churn is a top priority. In this Power BI case study, I analyze a dataset from an example telecom company called **Databel** to identify key patterns and actionable insights that can help reduce churn and improve customer retention.
+For subscription-based businesses, reducing customer churn is a top priority. In this Power BI case study, I analyze a dataset from an example telecom company called **NovaData** to identify key patterns and actionable insights that can help reduce churn and improve customer retention.
 
 ---
 
